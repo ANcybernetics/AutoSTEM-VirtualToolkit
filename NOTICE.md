@@ -6,10 +6,10 @@ If you use or share this material, please include the following attribution:
 led by ANcybernetics in collaboration with UNIVPM (LabMACS) and Optimation.
 
 Contributors:
-- Ripani Alessandro  
+- David Scaradozzi
+- Alessandro Ripani 
 - Davide Collevecchio  
-- Francesco Giachini  
-- David Scaradozzi  
+- Francesco Giachini
 - Martina Morano
 - Giacomo Fiara  
 - Flavia Gioiello  
@@ -29,5 +29,5 @@ Part of the work was carried out within academic activities involving students o
 
 <img src="https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_co_funded_en.jpg" alt="EU Co-funded" width="250"/>
 
-Funded by the European Union. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or the Erasmus+ National Agency – INDIRE. Neither the European Union nor the National Agency can be held responsible for them.
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the Erasmus+ National Agency - INDIRE. Neither the European Union nor the granting authority can be held responsible for them.
 Project number: 2025-1-IT02-KA210-SCH-000358066.

@@ -127,7 +127,7 @@ Reference email: info@ancyb.it
 ### UNIVPM / LabMACS
 - David Scaradozzi  
 - Martina Morano  
-- Ripani Alessandro  
+- Alessandro Ripani  
 - Davide Collevecchio  
 - Francesco Giachini  
 
@@ -160,6 +160,5 @@ See LICENSE for licensing details and NOTICE.md for attribution and project cont
 
 <img src="https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_co_funded_en.jpg" alt="EU Co-funded" width="250"/>
 
-Funded by the European Union. Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union or the Erasmus+ National Agency – INDIRE. Neither the European Union nor the National Agency can be held responsible for them.  
-
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the Erasmus+ National Agency - INDIRE. Neither the European Union nor the granting authority can be held responsible for them.
 Project number: 2025-1-IT02-KA210-SCH-000358066.
