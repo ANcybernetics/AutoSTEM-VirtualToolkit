@@ -19,7 +19,7 @@ AutoSTEM focuses on enhancing computational thinking, robotics education, and co
 
 ---
 
-![version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![version](https://img.shields.io/badge/Version-1.2.0-blue.svg)
 ![IDE](https://img.shields.io/badge/-IDE:UnityEngine|VSCode-blue?style=flat)
 ![language](https://img.shields.io/badge/-Language:C%23-blue?style=flat)
 
@@ -81,6 +81,24 @@ No installation is required (portable application).
 This repository includes the source files made available for the BalaC PID playground component of the AutoSTEM Virtual Toolkit.
 
 The published source code is provided for educational, dissemination, and documentation purposes within the Erasmus+ AutoSTEM project. It may not represent the complete internal development environment of the software.
+
+---
+
+## ⚠️ Third-Party Components
+
+The distributed AUTOSTEM application includes components derived from:
+
+**UIFlow Virtual**  
+https://github.com/ViktorijaSml/UIFlow-Virtual  
+
+Licensed under the **Apache License 2.0**.
+A copy of the Apache 2.0 License is included in the distribution.
+
+These components are included only in the compiled application and are not part of the source code shared in this repository.
+
+Originally developed by Viktorija Smlatić (@ViktorijaSml)
+
+See `NOTICE.md` and `LICENSE` for more details.
 
 ---
 

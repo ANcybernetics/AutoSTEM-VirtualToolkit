@@ -1,3 +1,15 @@
+This repository contains:
+
+- Documentation and educational materials licensed under:
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+- Software components that may include third-party code under separate licenses.
+
+In particular, the distributed AUTOSTEM executable includes components derived from the UIFlow Virtual project,
+licensed under the Apache License 2.0.
+
+See NOTICE.md for attribution details.
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
@@ -8,3 +20,5 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 Copyright (c) 2026 Alessandro Ripani, Davide Collevecchio, Francesco Giachini
 
 This work was adapted and developed within the Erasmus+ AutoSTEM project.
+
+
