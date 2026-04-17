@@ -49,7 +49,7 @@ The current version of the simulator focuses on the **BalaC robot** and its **PI
   Source files related to the BalaC PID playground component shared for educational and dissemination purposes.
 
 - **NOTICE.md**  
-  Attribution and project context.
+  Attribution, project context and third-party components.
 
 - **LICENSE**  
   Licensing information (CC BY-NC-SA 4.0).
@@ -97,6 +97,11 @@ A copy of the Apache 2.0 License is included in the distribution.
 These components are included only in the compiled application and are not part of the source code shared in this repository.
 
 Originally developed by Viktorija Smlatić (@ViktorijaSml)
+
+Developed within an academic context at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb.
+
+Academic reference and supervision:
+- Prof. Ana Sović Kržić (University of Zagreb, FER)
 
 See `NOTICE.md` and `LICENSE` for more details.
 

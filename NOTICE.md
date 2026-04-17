@@ -43,6 +43,11 @@ https://github.com/ViktorijaSml/UIFlow-Virtual
 
 Originally developed by **Viktorija Smlatić (@ViktorijaSml)**
 
+Developed within an academic context at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb.
+
+Academic reference and supervision:
+- Prof. Ana Sović Kržić (University of Zagreb, FER)
+
 Licensed under the **Apache License 2.0**.
 
 Acknowledgements from the original project:
